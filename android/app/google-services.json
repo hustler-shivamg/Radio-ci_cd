@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566339645509",
+    "project_id": "radioapp-562d0",
+    "storage_bucket": "radioapp-562d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566339645509:android:0cf90994d03aeb0ab4732c",
+        "android_client_info": {
+          "package_name": "com.ch.radio.my_radio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566339645509-la0iv1ri8e5p37tg9frpeamftfeavu2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxaT85asWMeX6JJlQx_kp1tsohmpWn0XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566339645509-la0iv1ri8e5p37tg9frpeamftfeavu2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
